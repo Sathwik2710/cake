@@ -1,0 +1,5 @@
+flour
+egg
+vanilla
+sugar
+^C
